@@ -78,3 +78,5 @@ we now select the **best-performing model** (based on highest Validation R² and
 and evaluate it on the **Test set** to confirm its generalization capability.
 
 We'll also visualize how well the predictions align with the true disease progression values.
+
+#  Talking points towards the end
