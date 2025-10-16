@@ -1,5 +1,8 @@
 # Practical_Lab2_CSCN8010
 Multivariate Linear Regression, Non-Parametric Models and Cross-Validation
+### Name : Jose George  ID: 9082825
+
+
 ##  Objective
 This project aims to build and evaluate regression models that can best predict **the risk of diabetes progression** using the Scikit-learn Diabetes dataset.  
 The final model can be used as a **screening tool for physicians** to identify patients at risk.
